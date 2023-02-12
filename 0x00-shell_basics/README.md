@@ -1,1 +1,1 @@
-shell devops
+long format
